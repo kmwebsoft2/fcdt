@@ -6,12 +6,3 @@
 	.item.active a{color:#fff}*{box-sizing:border-box}body{margin:0}html{font-family:'Open Sans'}
 	.item img{width:200px}h1{margin:150px auto 50px auto;text-align:center}@media (min-width: 768px){
 		.promo-carousel .item-wrap{width:200%}}
-img {
-    opacity: 0.6;
-    filter: alpha(opacity=40);
-}
-
-img:hover {
-    opacity: 1.0;
-    filter: alpha(opacity=100);
-}
